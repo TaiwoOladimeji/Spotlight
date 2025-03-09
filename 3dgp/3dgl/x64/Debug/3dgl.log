@@ -12,5 +12,5 @@
   Terrain.cpp
   Tools.cpp
   Generating Code...
-     Creating library C:\Users\otaiw\Downloads\050.TexturedRoom\050.TexturedRoom\x64\Debug\3dgl.lib and object C:\Users\otaiw\Downloads\050.TexturedRoom\050.TexturedRoom\x64\Debug\3dgl.exp
-  3dgl.vcxproj -> C:\Users\otaiw\Downloads\050.TexturedRoom\050.TexturedRoom\x64\Debug\3dgl.dll
+     Creating library C:\Spotlight\x64\Debug\3dgl.lib and object C:\Spotlight\x64\Debug\3dgl.exp
+  3dgl.vcxproj -> C:\Spotlight\x64\Debug\3dgl.dll
